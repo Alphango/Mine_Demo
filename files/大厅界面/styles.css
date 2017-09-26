@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1258px;
+  width:720px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -32,10 +32,14 @@
 }
 #u378 {
   position:absolute;
-  left:-11px;
-  top:-8px;
+  left:-280px;
+  top:280px;
   width:1280px;
   height:720px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
 }
 #u379 {
   position:absolute;
@@ -65,10 +69,14 @@
 }
 #u380 {
   position:absolute;
-  left:487px;
-  top:5px;
+  left:522px;
+  top:598px;
   width:285px;
   height:85px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
   font-size:28px;
 }
 #u381 {
@@ -87,10 +95,14 @@
 }
 #u382 {
   position:absolute;
-  left:333px;
-  top:213px;
+  left:273px;
+  top:362px;
   width:244px;
   height:209px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
 }
 #u383 {
   position:absolute;
@@ -108,10 +120,14 @@
 }
 #u384 {
   position:absolute;
-  left:683px;
-  top:211px;
+  left:273px;
+  top:708px;
   width:242px;
   height:214px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
 }
 #u385 {
   position:absolute;
@@ -129,10 +145,14 @@
 }
 #u386 {
   position:absolute;
-  left:1020px;
-  top:248px;
+  left:316px;
+  top:1039px;
   width:156px;
   height:140px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
 }
 #u387 {
   position:absolute;
@@ -150,10 +170,14 @@
 }
 #u388 {
   position:absolute;
-  left:1020px;
-  top:398px;
+  left:166px;
+  top:1039px;
   width:156px;
   height:140px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
 }
 #u389 {
   position:absolute;
@@ -179,10 +203,14 @@
 }
 #u390 {
   position:absolute;
-  left:0px;
-  top:0px;
+  left:569px;
+  top:55px;
   width:188px;
   height:99px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
   font-size:20px;
 }
 #u391 {
@@ -202,10 +230,14 @@
 }
 #u392 {
   position:absolute;
-  left:5px;
-  top:10px;
+  left:627px;
+  top:16px;
   width:75px;
   height:75px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
   color:#000000;
 }
 #u393 {
@@ -232,10 +264,14 @@
 }
 #u394 {
   position:absolute;
-  left:80px;
-  top:19px;
+  left:634px;
+  top:122px;
   width:90px;
   height:28px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
   text-align:center;
 }
 #u395 {
@@ -262,10 +298,14 @@
 }
 #u396 {
   position:absolute;
-  left:80px;
-  top:47px;
+  left:606px;
+  top:122px;
   width:90px;
   height:28px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
   text-align:center;
 }
 #u397 {
@@ -297,10 +337,14 @@
 }
 #u398 {
   position:absolute;
-  left:58px;
-  top:279px;
+  left:328px;
+  top:126px;
   width:162px;
   height:48px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
   font-size:20px;
   color:#4F4BCB;
 }
@@ -328,10 +372,14 @@
 }
 #u400 {
   position:absolute;
-  left:74px;
-  top:236px;
+  left:398px;
+  top:135px;
   width:129px;
   height:28px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
   text-align:center;
 }
 #u401 {
@@ -363,10 +411,14 @@
 }
 #u402 {
   position:absolute;
-  left:58px;
-  top:354px;
+  left:253px;
+  top:126px;
   width:162px;
   height:48px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
   font-size:20px;
   color:#4F4BCB;
 }
@@ -399,10 +451,14 @@
 }
 #u404 {
   position:absolute;
-  left:58px;
-  top:424px;
+  left:183px;
+  top:126px;
   width:162px;
   height:48px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
   font-size:20px;
   color:#4F4BCB;
 }
@@ -422,10 +478,14 @@
 }
 #u406 {
   position:absolute;
-  left:20px;
-  top:283px;
+  left:395px;
+  top:24px;
   width:28px;
   height:41px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
 }
 #u407 {
   position:absolute;
@@ -444,10 +504,14 @@
 }
 #u408 {
   position:absolute;
-  left:20px;
-  top:358px;
+  left:320px;
+  top:24px;
   width:28px;
   height:41px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
 }
 #u409 {
   position:absolute;
@@ -466,10 +530,14 @@
 }
 #u410 {
   position:absolute;
-  left:20px;
-  top:428px;
+  left:250px;
+  top:24px;
   width:28px;
   height:41px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
 }
 #u411 {
   position:absolute;
@@ -499,10 +567,14 @@
 }
 #u412 {
   position:absolute;
-  left:1070px;
-  top:18px;
+  left:579px;
+  top:1137px;
   width:171px;
   height:59px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
   font-size:20px;
 }
 #u413 {
@@ -528,10 +600,14 @@
 }
 #u415 {
   position:absolute;
-  left:1167px;
-  top:631px;
+  left:16px;
+  top:1178px;
   width:65px;
   height:65px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
 }
 #u416 {
   position:absolute;
@@ -549,10 +625,14 @@
 }
 #u417 {
   position:absolute;
-  left:1092px;
-  top:631px;
+  left:16px;
+  top:1103px;
   width:65px;
   height:65px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
 }
 #u418 {
   position:absolute;
@@ -570,10 +650,14 @@
 }
 #u419 {
   position:absolute;
-  left:1017px;
-  top:631px;
+  left:16px;
+  top:1028px;
   width:65px;
   height:65px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
 }
 #u420 {
   position:absolute;
@@ -591,10 +675,14 @@
 }
 #u421 {
   position:absolute;
-  left:942px;
-  top:631px;
+  left:16px;
+  top:953px;
   width:65px;
   height:65px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
 }
 #u422 {
   position:absolute;
@@ -612,10 +700,14 @@
 }
 #u423 {
   position:absolute;
-  left:867px;
-  top:631px;
+  left:16px;
+  top:878px;
   width:65px;
   height:65px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
 }
 #u424 {
   position:absolute;
@@ -633,10 +725,14 @@
 }
 #u425 {
   position:absolute;
-  left:792px;
-  top:631px;
+  left:16px;
+  top:803px;
   width:65px;
   height:65px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
 }
 #u426 {
   position:absolute;
@@ -665,10 +761,14 @@
 }
 #u427 {
   position:absolute;
-  left:532px;
-  top:528px;
+  left:59px;
+  top:612px;
   width:194px;
   height:56px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
   font-size:28px;
 }
 #u428 {
@@ -696,10 +796,14 @@
 }
 #u429 {
   position:absolute;
-  left:577px;
-  top:587px;
+  left:56px;
+  top:624px;
   width:105px;
   height:34px;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+  transform:rotate(90deg);
   font-size:16px;
   text-align:center;
 }
